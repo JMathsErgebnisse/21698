@@ -10,9 +10,6 @@ gap> ;
 gap> ; 
 
 
-gap> ; 
-
-
 gap> interesting:=finder(out, g_perm); 
 
 
@@ -31,5 +28,8 @@ gap> interesting:=finder(out, g_perm);
 5/955.......D30 
 
 
-6/955.... 
+6/955.......D30 
+
+
+7/955.... 
 
